@@ -1,12 +1,21 @@
 # C Position-Independent Code (PIC)
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![x86](https://img.shields.io/badge/x86-red?style=for-the-badge)
+![x86_64](https://img.shields.io/badge/x86__64-red?style=for-the-badge)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![AArch64](https://img.shields.io/badge/AArch64-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Security Research](https://img.shields.io/badge/Security-Research-critical?style=for-the-badge)
+
 Cross‑platform C demo that compiles a small program into **position‑independent code** and shows how to:
 
 - resolve Windows APIs manually using the PEB + PE exports,
 - use raw Linux syscalls without libc,
 - extract a compact “shellcode‑like” code blob from a normal executable.
 
-> ⚠️ This project is intended solely for educational and research purposes in low-level systems and compiler design. Do not use it to break laws, violate school or workplace policies, or service terms.
+> ⚠️ This project is intended solely for educational and research purposes in low-level systems and compiler design. Do not use it to break laws, violate school or workplace policies, or service terms. See [RESPONSIBLE_USE.md](RESPONSIBLE_USE.md) for the full responsible use policy.
 
 [GitHub Project](https://github.com/mrzaxaryan/c-pic)
 
