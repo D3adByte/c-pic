@@ -8,6 +8,7 @@
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![AArch64](https://img.shields.io/badge/AArch64-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![Security Research](https://img.shields.io/badge/Security-Research-critical?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 Cross‑platform C demo that compiles a small program into **position‑independent code** and shows how to:
 
